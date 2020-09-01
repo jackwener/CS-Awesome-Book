@@ -16,6 +16,10 @@
 
 [https://book.douban.com/subject/26775661/](https://book.douban.com/subject/26775661/)
 
+> 想自己实现一个simple db的话，安利这本书，看看sqlite会怎么做
+
+[sqlite database system design and implementation]()
+
 [数据库索引设计与优化](https://book.douban.com/subject/26419771/)
 
 [高性能MySQL（第3版）](https://book.douban.com/subject/23008813/)
