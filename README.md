@@ -12,7 +12,7 @@
 
 [数据库系统内幕](https://book.douban.com/subject/35078474/)
 
-[Readings in Database Systems](https://book.douban.com/subject/2256069/)
+[Readings in Database Systems](http://www.redbook.io/index.html)
 
 [Oracle编程艺术：深入理解数据库体系结构（第3版）](https://book.douban.com/subject/26775661/)
 
