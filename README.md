@@ -14,7 +14,7 @@
 
 [Readings in Database Systems](https://book.douban.com/subject/2256069/)
 
-[https://book.douban.com/subject/26775661/](https://book.douban.com/subject/26775661/)
+[Oracle编程艺术：深入理解数据库体系结构（第3版）](https://book.douban.com/subject/26775661/)
 
 > 想自己实现一个simple db的话，安利这本书，看看sqlite会怎么做
 
